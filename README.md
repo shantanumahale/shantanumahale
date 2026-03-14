@@ -41,7 +41,7 @@ An end-to-end securities screener that ingests **SEC EDGAR XBRL** filings, **FRE
 #### 📝 [Docubr — Technical Documentation App](https://github.com/shantanumahale/docubr)
 A full-stack documentation tool with a block-based rich text editor, syntax-highlighted code blocks, callouts, API reference components, nested doc hierarchies, real-time data sync, public sharing, and dark/light theming.
 
-`Next.js` `Convex` `Clerk`
+`Next.js` `TypeScript` `React` `Convex` `Clerk`
 
 </td>
 </tr>
