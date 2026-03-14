@@ -45,16 +45,6 @@ A full-stack documentation tool with a block-based rich text editor, syntax-high
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🔜 Valuation & Portfolio Engine *(in progress)*
-Building valuation models and portfolio analytics on top of Excella's enriched precomputed data — DCF, comps, Piotroski scoring, and more.
-
-</td>
-<td width="50%" valign="top">
-</td>
-</tr>
 </table>
 
 ---
