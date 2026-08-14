@@ -4,10 +4,22 @@
 
 **Software Engineer · React & React Native · Python · CFA Level II Cleared**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shantanumahale)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahaleshantanu3@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shantanumahale)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shantanumahale.vercel.app)
+<div align="center">
+
+<a href="https://linkedin.com/in/shantanumahale" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:mahaleshantanu3@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://github.com/shantanumahale" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://your-domain.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-4A5FE0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+
+</div>
 
 </div>
 
